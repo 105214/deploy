@@ -1,0 +1,16 @@
+.slide-image{
+    width:100%;
+    background-position:center;
+    height:400px;
+}
+.main-box {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin-left: 56px;
+}
+
+img.card-img-top {
+    height: 150px;
+    width: 100px;
+    margin-left: 70px;
+}
